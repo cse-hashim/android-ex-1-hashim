@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">htest2</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="main_txt">this is the main article</string>
+    <string name="first_txt">Frirst Article</string>
+    <string name="second_txt">second______Article</string>
+    <string name="main_btn_string">Main</string>
+    <string name="first_btn_string">First</string>
+    <string name="second_btn_string">Second</string>
+    <string name="title_activity_activity1">Activity1</string>
+    <string name="title_activity_activity2">Activity2</string>
+
+</resources>
